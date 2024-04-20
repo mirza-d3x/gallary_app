@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:flutter/material.dart';
 import 'package:gallary_app/presentation/widgets/image_grid_item.dart';
 import 'package:gallary_app/providers/image_provider.dart';
